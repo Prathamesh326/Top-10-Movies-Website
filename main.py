@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 
 This will install the packages from requirements.txt for this project.
 '''
-API_KEY = "76857e0da76e8810a2eefa1eb4c7f9cb"
+API_KEY = "GENERATE AND USE YOUR OWN API KEY"
 ENDPOINT = "https://api.themoviedb.org/3/search/movie"
 MOVIE_DETAILS = "https://api.themoviedb.org/3/movie"
 MOVIE_IMAGE_URL = "https://api.themoviedb.org/3/movie/images"
